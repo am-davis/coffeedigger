@@ -159,6 +159,10 @@ ul.about-lists li {
 	text-align: center;
 }
 
+.form-group h1{
+ 	text-align: center;
+	display: block; 
+}
 .contact {
     background-color: #6f372e;
     height: 60px;
