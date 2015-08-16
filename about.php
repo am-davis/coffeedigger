@@ -35,7 +35,7 @@ include('includes/config.php');
     
 <div class="logo col-md-4">
     
-        <a href="index.html"><img class="icon" alt="logo" src="images/logo.png" title="link back to main page"></a>
+        <a href="index.php"><img class="icon" alt="logo" src="images/logo.png" title="link back to main page"></a>
 </div>
 
 
@@ -74,52 +74,8 @@ include('includes/config.php');
     
     
 <div class="form-group filter">
-
-<label for="filter">Sort By:</label>
-<select class="form-control">
-  <option value="">Brand</option>
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>
-  
-<select class="form-control">
-  <option value="">Type</option>
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>    
- 
-<select class="form-control">
-  <option value="">Flavor</option>
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>   
-
-<select class="form-control">
-  <option value="">Price</option>
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>
+<h1>About</h1>
     
-<select class="form-control">
-  <option value="">Popularity</option>
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>    
-
-<button class="btn btn-default filtergo" type="submit">Go</button>
-
-
-        
 </div>
 
 
